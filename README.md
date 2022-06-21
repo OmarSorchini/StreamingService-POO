@@ -1,6 +1,6 @@
 # StreamingService-POO
 
-###Descripcion
+### Descripcion
 
 Este programa es usado con la intención de poder recrear un servicio de streaming de contenido multimedia tales como plataformas populares como Netflix recurren a su contenido.
 
@@ -8,7 +8,7 @@ Para poder utilizarlo primero se tiene que cargar el catálogo asigando al archi
 
 -----------------------------------------
 
-###Instalacion de software requerido
+### Instalacion de software requerido
 
 Para instalar python en Windows sigase las indicaciones del siguiente link:
 
@@ -26,7 +26,7 @@ Una vez instalado Git, abra la consola de su preferencia y escriba el comando "g
 
 --------------------------------------
 
-###Ejecucion
+### Ejecucion
 
 Para correr el proyecto se debe ejecutar el archivo integrador.py
 
