@@ -9,3 +9,5 @@ https://docs.microsoft.com/es-es/windows/python/beginners
 En el caso de Mac sigase el siguiente el link:
 
 https://techkrowd.com/2019/12/09/como-instalar-python-3-en-mac-os-x-10-9-o-posterior/#:~:text=En%20la%20p%C3%A1gina%20principal%20ponemos,vez%20terminada%20ejecutamos%20el%20archivo%20.
+
+Para su ejecución abra la consola de su preferencia estando dentro del folder del repositorio y escriba en consola "python integrador.py"
